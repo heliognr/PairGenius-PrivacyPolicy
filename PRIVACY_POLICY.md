@@ -20,7 +20,7 @@ The App does not perform background operations (e.g., in the system tray) that i
 
 ### 3. User-Provided Content (Optional)
 
-Users have the option to customize certain aspects of the App, such. For example, users can select custom audio files for game reminders. These files are chosen by the user from their local system and are **never accessed, transmitted, or stored by the App on external servers.** They remain exclusively on your device.
+Users have the option to customize certain aspects of the App, such as game themes, difficulty levels, game modes, and audio volumes for music and sound effects, as well as the app's language. All these preferences and configurations are never accessed, transmitted, or stored by the App on external servers. They remain exclusively on your device.
 
 ### 4. Third-Party Services
 
